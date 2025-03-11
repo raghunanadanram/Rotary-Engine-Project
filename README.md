@@ -36,7 +36,7 @@ A rotary engine, also known as a Wankel engine, is a type of internal combustion
 
 ## **Tools Used**
 - **SolidWorks 2023**: For 3D modeling, assembly, and technical drawings.
-- **SolidWorks Simulation**: For finite element analysis (FEA) and performance testing.
+- **SolidWorks Inspection**: For making motion analysis graph.
 - **GitHub**: For version control and project sharing.
 
 ---
@@ -85,7 +85,7 @@ The simulation focuses on analyzing the following aspects of the rotary engine:
 
 ## **Credits and Acknowledgments**
 - **SolidWorks Community**: For providing resources and tutorials on advanced modeling and simulation techniques.
-- **Engineering Team**: Special thanks to my team members for their contributions to the design and analysis.
+- **Team**: Special thanks to my team members for their contributions to the design and analysis.
 - **Open-Source Projects**: Inspired by various open-source rotary engine designs available online.
 
 ---
